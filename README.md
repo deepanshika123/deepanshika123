@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshika Agrahari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw17BIYWvpaUw6Tp7OYRARMW&ust=1760795751320000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjQwpuyq5ADFQAAAAAdAAAAABAL">
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshika123&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshika123" /> </p>
 
