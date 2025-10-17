@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshika Agrahari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="400" alt="coding" src="https://cdn-iconscout.com/lottie-animations/female-web-developer-6204.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshika123&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshika123" /> </p>
 
@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshika123&show_icons=true&locale=en" alt="deepanshika123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshika123&" alt="deepanshika123" /></p>
+
+
